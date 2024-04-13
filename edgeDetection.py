@@ -37,4 +37,4 @@ def find_squares(image_path):
     cv2.destroyAllWindows()
 
 # Example usage
-find_squares('image2.png')
+find_squares('square.png')
