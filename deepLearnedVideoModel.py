@@ -1,8 +1,3 @@
-# Project: How to Detect Objects in Video Using MobileNet SSD in OpenCV
-# Author: Addison Sears-Collins
-# Date created: March 1, 2021
-# Description: Object detection using OpenCV
- 
 import cv2 # Computer vision library
 import numpy as np # Scientific computing library 
  
